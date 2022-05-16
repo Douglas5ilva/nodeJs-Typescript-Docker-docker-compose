@@ -22,3 +22,5 @@ docker-compose build (depois do build da imagem você pode rodar os containers m
 
 ## Start o dev server
 make up
+
+## Video: https://www.loom.com/share/39aeaae3d0014cf6b9487ed75fa54f7b
