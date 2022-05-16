@@ -18,7 +18,7 @@ npm start
 ## Para rodar os containers e necessário instalar o [Docker](https://www.docker.com/)
 
 ## Build a image
-docker-compose build (depois do build da imagem você pode rodar os containers manualmente no desktop do [Docker](https://www.docker.com/)
+docker-compose build (depois do build da imagem você pode rodar os containers manualmente no desktop do [Docker](https://www.docker.com/))
 
 ## Start o dev server
 make up
